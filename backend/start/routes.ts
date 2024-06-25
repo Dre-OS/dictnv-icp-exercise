@@ -39,11 +39,11 @@ Route.post('/user/update', isAuth, UsersController.update);
 */
 
 Route.get('/health', ApisController.health);
-Route.get('/config', ApisController.config);
+// Route.get('/config', ApisController.config);
 
-Route.get('/uploads/:filename', ApisController.readupload);
-Route.post('/upload', isAuth, ApisController.testupload);
-Route.get('/uploads/v2/:filename', ApisController.readupload_v2);
+// Route.get('/uploads/:filename', ApisController.readupload);
+// Route.post('/upload', isAuth, ApisController.testupload);
+// Route.get('/uploads/v2/:filename', ApisController.readupload_v2);
 
 // EVENT
 
