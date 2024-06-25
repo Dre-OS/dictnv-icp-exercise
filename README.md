@@ -1,2 +1,2 @@
 # dictnv-icp-exercise
-Hendre Leigh O. Sagabaen
+Hendre Leigh O. Sagabaen.
